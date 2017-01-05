@@ -414,3 +414,12 @@
   icon: https://raw.githubusercontent.com/thomasguillard/Make-it-Snow/master/Make it Snow.tingapp/icon.png
   github_url: https://github.com/thomasguillard/Make-it-Snow
   zip_url: https://github.com/thomasguillard/Make-it-Snow/archive/master.zip
+  
+- name: Analog Clock
+  creator: Jesse Anderson
+  version: v1.0
+  modified_date: 4 Jan 2017
+  icon: https://raw.githubusercontent.com/jessea3/Tingbot-Analog-Clock/archive/master/Analog Clock.tingapp/icon.png
+  github_url: https://github.com/jessea3/Tingbot-Analog-Clock
+  zip_url: https://github.com/jessea3/Tingbot-Analog-Clock/archive/master.zip
+  
